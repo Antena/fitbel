@@ -1,0 +1,23 @@
+{
+  "name": "fitbel",
+  "version": "0.0.1",
+  "description": "A Fitbit Client",
+  "author": "Belen Curcio",
+  "main": "src/fitbel.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "example": "node example/basic.js"
+  },
+  "author": "Belen Curcio",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.4.3",
+    "oauth": "^0.9.14",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}

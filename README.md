@@ -1,7 +1,13 @@
 # Fitbel
 > A Fitbit API Client for Node
 
-###  Example Demo
+## Installation
+
+```sh
+npm i --save fitbit
+```
+
+##  Example Demo
 Check the working example running in express!
 
 Before running the example server, replace
@@ -9,7 +15,7 @@ Before running the example server, replace
 
 You can find your credentials in https://dev.fitbit.com/apps
 
-```
+```js
 fitbel.connect(
   '<YOUR_CLIENT_ID>', // Client Id
   '<YOUR_CLIENT_SECRET>' //Client Secret
@@ -18,7 +24,9 @@ fitbel.connect(
 
 ##### Run the example
 
-$ ```npm run example ```
+```sh
+npm run example
+```
 
 ## Maintained by
 - Belén Curcio

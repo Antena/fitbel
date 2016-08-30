@@ -1,16 +1,15 @@
 {
   "name": "fitbel",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Fitbit Client",
   "author": "Belen Curcio",
   "main": "src/fitbel.js",
   "directories": {
-    "test": "tests"
+    "example": "example"
   },
   "scripts": {
     "example": "node example/basic.js"
   },
-  "author": "Belen Curcio",
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.4.3",
@@ -19,5 +18,21 @@
   },
   "devDependencies": {
     "express": "^4.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okbel/fitbel.git"
+  },
+  "keywords": [
+    "fitbit",
+    "node",
+    "fitbel",
+    "express",
+    "okbel",
+    "javascript"
+  ],
+  "bugs": {
+    "url": "https://github.com/okbel/fitbel/issues"
+  },
+  "homepage": "https://github.com/okbel/fitbel#readme"
 }

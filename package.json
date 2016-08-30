@@ -2,7 +2,7 @@
   "name": "fitbel",
   "version": "1.0.0",
   "description": "A Fitbit Client",
-  "author": "Belen Curcio",
+  "author": "Belen Curcio <curciobelen@gmail.com> (http://curcio.be)",
   "main": "src/fitbel.js",
   "directories": {
     "example": "example"

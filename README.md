@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-npm i --save fitbit
+npm i --save fitbel
 ```
 
 ##  Example Demo

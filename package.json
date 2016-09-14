@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "A Fitbit Client",
   "author": "Belen Curcio <curciobelen@gmail.com> (http://curcio.be)",
+  "maintainers": [
+    "Belen Curcio <curciobelen@gmail.com>",
+    "Denise Fernandez <denise@antena.co>",
+    "Gonzalo Bellver <gonzalo@antena.co>"
+  ],
   "main": "src/fitbel.js",
   "directories": {
     "example": "example"

@@ -40,7 +40,7 @@
       redirect_uri: redirect_url,
       scope: scope,
       response_type: 'code'
-    }).replace('api', 'www');
+    }).replace(FITBIT_API_URL, FITBIT_URL);
   }
 
   function getToken(code, redirectUri) {

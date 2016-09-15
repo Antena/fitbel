@@ -2,7 +2,7 @@
   "name": "fitbel",
   "version": "1.0.1",
   "description": "A Fitbit Client",
-  "author": "Belen Curcio <curciobelen@gmail.com> (http://curcio.be)",
+  "author": "Antena",
   "maintainers": [
     "Belen Curcio <curciobelen@gmail.com>",
     "Denise Fernandez <denise@antena.co>",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/okbel/fitbel.git"
+    "url": "git+https://github.com/Antena/fitbel.git"
   },
   "keywords": [
     "fitbit",
